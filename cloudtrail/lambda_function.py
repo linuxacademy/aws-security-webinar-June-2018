@@ -11,5 +11,5 @@ def lambda_handler(event, context):
             client.start_logging(
                 Name=event['detail']['requestParameters']['name'])
 
-    except Exception, e:
+    except Exception as e:
         print(e)
