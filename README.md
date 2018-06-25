@@ -1,1 +1,1 @@
-# aws-security-webinar-June-2018
+# AWS Security Webinar - June 2018
